@@ -34,7 +34,7 @@ namespace QuanLyKhoaHoc
             FormCollection fc = Application.OpenForms;
             foreach (Form f in fc)
             {
-                if (f.Name == "frm_QuanLyKhoaHoc" || f.Name == "frm_QuanLySinhVien")
+                if (f.Name == "frm_QuanLyKhoaHoc" || f.Name == "frm_QuanLySinhVien" || f.Name == "frm_QuanLyGiangVien")
                 {
                     f.Height = Main_pnl.Height;
                     f.Width = Main_pnl.Width;
@@ -46,6 +46,18 @@ namespace QuanLyKhoaHoc
         {
             //click quản lý sinh viên
             frm_QuanLySinhVien f = new frm_QuanLySinhVien();
+            f.TopLevel = false;
+            f.Height = Main_pnl.Height;
+            f.Width = Main_pnl.Width;
+            Main_pnl.Controls.Clear();
+            Main_pnl.Controls.Add(f);
+            f.Show();
+        }
+
+        private void quảnLýGiảngViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //click quản lý giảng viên
+            frm_QuanLyGiangVien f = new frm_QuanLyGiangVien();
             f.TopLevel = false;
             f.Height = Main_pnl.Height;
             f.Width = Main_pnl.Width;

@@ -69,6 +69,7 @@
             this.quảnLýGiảngViênToolStripMenuItem.Name = "quảnLýGiảngViênToolStripMenuItem";
             this.quảnLýGiảngViênToolStripMenuItem.Size = new System.Drawing.Size(146, 24);
             this.quảnLýGiảngViênToolStripMenuItem.Text = "Quản lý giảng viên";
+            this.quảnLýGiảngViênToolStripMenuItem.Click += new System.EventHandler(this.quảnLýGiảngViênToolStripMenuItem_Click);
             // 
             // quảnLýSinhViênToolStripMenuItem
             // 
