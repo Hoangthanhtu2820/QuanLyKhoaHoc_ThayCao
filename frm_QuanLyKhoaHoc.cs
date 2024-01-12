@@ -185,7 +185,7 @@ namespace QuanLyKhoaHoc
                 SoBuoiThucHanh_num.Text = Convert.ToString(row.Cells["SoBuoiThucHanh"].Value);
                 ThemKhoaHoc_btn.Visible = false;
             }
-            
+      
         }
 
         private void PageSite_num_ValueChanged(object sender, EventArgs e)
