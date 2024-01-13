@@ -125,8 +125,7 @@
             // 
             // NgaySinh_dtp
             // 
-            this.NgaySinh_dtp.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.NgaySinh_dtp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.NgaySinh_dtp.Location = new System.Drawing.Point(143, 204);
             this.NgaySinh_dtp.Name = "NgaySinh_dtp";
@@ -135,8 +134,7 @@
             // 
             // GioiTinh_cmb
             // 
-            this.GioiTinh_cmb.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.GioiTinh_cmb.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.GioiTinh_cmb.FormattingEnabled = true;
             this.GioiTinh_cmb.Items.AddRange(new object[] {
@@ -149,8 +147,7 @@
             // 
             // SDT_txt
             // 
-            this.SDT_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.SDT_txt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.SDT_txt.Location = new System.Drawing.Point(143, 307);
             this.SDT_txt.Name = "SDT_txt";
@@ -159,8 +156,7 @@
             // 
             // Email_txt
             // 
-            this.Email_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.Email_txt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Email_txt.Location = new System.Drawing.Point(143, 360);
             this.Email_txt.Name = "Email_txt";
@@ -240,8 +236,7 @@
             // 
             // LopQuanLy_txt
             // 
-            this.LopQuanLy_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.LopQuanLy_txt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.LopQuanLy_txt.Location = new System.Drawing.Point(143, 155);
             this.LopQuanLy_txt.Name = "LopQuanLy_txt";
@@ -250,8 +245,7 @@
             // 
             // HoVaTen_txt
             // 
-            this.HoVaTen_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.HoVaTen_txt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.HoVaTen_txt.Location = new System.Drawing.Point(143, 105);
             this.HoVaTen_txt.Name = "HoVaTen_txt";
@@ -260,8 +254,7 @@
             // 
             // MaSinhVien_txt
             // 
-            this.MaSinhVien_txt.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.MaSinhVien_txt.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.MaSinhVien_txt.Location = new System.Drawing.Point(143, 47);
             this.MaSinhVien_txt.Name = "MaSinhVien_txt";
